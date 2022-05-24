@@ -97,3 +97,12 @@ Observera att gatunumret och postnumret behöver översättas till DEC enligt AS
 
 
 ----------------------------------------------------------------------------------------------------
+RecyclerView:
+1. RecyclerView ska läggas till i layout-fil för Main Activity.
+2. Layout-fil ska läggas till för RecyclerView-item
+3. Java-klass ska läggas till för RecyclerView-item
+4. Skapa array med items som ska visas utifrån webbtjänst
+5. Deklarera och initialisera adapter
+6. Hämta view från layout mha. findViewById().
+7. Använd referensen för att sätta upp adapter och layout manager
+8. Fixa med datan som ska visas i appen.
